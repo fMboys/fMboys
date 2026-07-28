@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, <strong>I'm Fahad Mehmood</strong> <br><br>- 👨‍💻 .NET Full Stack & Azure Engineer<br>- 💻 Love building modern, responsive applications<br>- 📚 Exploring modern technologies<br>- ✉️ Reach me at : fahadmehmood009@gmail.com<br>
+Hi 👋, <strong>I'm Fahad Mehmood</strong> <br><br>- 👨‍💻 .NET Full Stack Developer & Azure Engineer<br>- 💻 Love building modern, responsive applications<br>- 📚 Exploring modern technologies<br>
 
 
 ## 🌐 Socials:
