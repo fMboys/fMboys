@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, <strong>I'm Fahad Mehmood</strong> <br><br>- 👨‍💻 .NET Full Stack Developer & Azure Engineer<br>- 💻 Love building modern, responsive applications<br>- 📚 Exploring modern technologies<br>
+Hi 👋, <strong>I'm Fahad Mehmood</strong> <br><br>- 👨‍💻 Microsoft Certified Full Stack Developer & Azure Engineer<br>- 💻 Love building modern, responsive web & applications<br>- 📚 Exploring modern technologies<br>
 
 
 ## 🌐 Socials:
